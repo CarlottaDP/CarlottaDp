@@ -1,7 +1,5 @@
 ### Hi there👋 Here is what I am doing!
 
-- [ ] ![](https://media3.giphy.com/media/KDyxouSEfhOs9i4oru/giphy.gif)
-
 I am a graduate AI Scientist in Machine Learning
 
 - 🔭 I’m currently working on Reinforcement and Deep Learning Models
