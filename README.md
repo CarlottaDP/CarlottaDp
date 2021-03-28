@@ -6,3 +6,4 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: www.linkedin.com/in/carlotta-dipede-34749a173
 - ⚡ Fun fact: I am a powerlifter :) 
+- [ ] ![](https://media4.giphy.com/media/gU25raLP4pUu4/giphy.gif)
