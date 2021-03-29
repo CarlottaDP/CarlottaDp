@@ -2,8 +2,7 @@
 
 I am a graduate AI Scientist in Machine Learning
 
-![br](https://user-images.githubusercontent.com/73316290/112856651-ec1a0b00-90a7-11eb-8257-8e46f6a8e3ac.jpg)
-
+![neuron](https://user-images.githubusercontent.com/73316290/112859289-96932d80-90aa-11eb-9a0e-cf84dd355c6f.gif)
 
 - 🔭 I’m currently working on Reinforcement and Deep Learning Models
 - 👯 I’m looking to collaborate on Ml Projects 
