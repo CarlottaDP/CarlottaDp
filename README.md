@@ -1,6 +1,6 @@
 ### Hi there👋 Here is what I am doing!
 
-I am a graduate AI Scientist in Machine Learning
+I am a AI Scientist graduate in Machine Learning
 
 ![neuron](https://user-images.githubusercontent.com/73316290/112859289-96932d80-90aa-11eb-9a0e-cf84dd355c6f.gif)
 
